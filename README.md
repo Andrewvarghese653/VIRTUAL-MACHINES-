@@ -1,6 +1,6 @@
 ## EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-## Name : VARSHA A
-## Reg No : 212223220121
+## Name : ANDREW VARGHESE V.S
+## Reg No : 212222103001
 ## Aim:
 To move the files between virtual machine.
  You can move files between virtual machines in several ways:
